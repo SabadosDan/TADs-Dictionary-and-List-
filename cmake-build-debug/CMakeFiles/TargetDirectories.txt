@@ -1,0 +1,3 @@
+D:/c++/Proiect SDA/cmake-build-debug/CMakeFiles/Proiect_SDA.dir
+D:/c++/Proiect SDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++/Proiect SDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

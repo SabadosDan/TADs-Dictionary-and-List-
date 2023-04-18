@@ -1,0 +1,16 @@
+# ninja log v5
+8	1400	7035218221460020	CMakeFiles/Proiect_SDA.dir/TAD-uri/List.cpp.obj	dc51f848f7e57926
+10231	15571	7035218363135959	Proiect_SDA.exe	8f032eac8723259
+1401	7731	7035218282385191	CMakeFiles/Proiect_SDA.dir/Services/ServiceMessage.cpp.obj	d03698a87e2a37ea
+64	7789	7035218283375171	CMakeFiles/Proiect_SDA.dir/Repositories/RepositoryUser.cpp.obj	d3d97b10c27f3c66
+12	7789	7035218283375171	CMakeFiles/Proiect_SDA.dir/Entities/Friendship.cpp.obj	7c3940120fc268f
+7595	10231	7035218309762803	CMakeFiles/Proiect_SDA.dir/UserInterface/UI.cpp.obj	78d6f11c1556c125
+70	7790	7035218283385197	CMakeFiles/Proiect_SDA.dir/Repositories/RepositoryFriendship.cpp.obj	75c2cb6ed0f7786b
+135	7788	7035218283165473	CMakeFiles/Proiect_SDA.dir/Services/ServiceFriendship.cpp.obj	8980c8f69c93570d
+7588	8799	7035218295442171	CMakeFiles/Proiect_SDA.dir/Repositories/RepositoryMessage.cpp.obj	824b55834c6a3fc2
+7725	8999	7035218297452533	CMakeFiles/Proiect_SDA.dir/Services/ServiceUser.cpp.obj	2a72705e8f7fa1bf
+130	7595	7035218283165473	CMakeFiles/Proiect_SDA.dir/Entities/Event.cpp.obj	7e4502b0bda98256
+56	7586	7035218277141653	CMakeFiles/Proiect_SDA.dir/Entities/Message.cpp.obj	96f8f6fc46d7e6ab
+17	7730	7035218282385191	CMakeFiles/Proiect_SDA.dir/Entities/User.cpp.obj	ba4ce2ae241c3b89
+2	7724	7035218277221673	CMakeFiles/Proiect_SDA.dir/Entities/main.cpp.obj	ef57cf7f61ab29f4
+6	1508	7035219931973042	Proiect_SDA.exe	6a6756e53acdc6e4
